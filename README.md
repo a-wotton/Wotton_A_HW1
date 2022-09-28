@@ -1,9 +1,11 @@
 # Wotton_A_HW1
 
+
 ## Dev:
 My name is dev pandya. I am from india , Things I like to do in
 my free time are reading books,watching anime,making artworks with 
 the help of photoshop.
+
 
 ## Installation
 TODO: Describe the installation process
@@ -16,6 +18,8 @@ TODO: Write usage instructions
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 ## Credits
-TODO: Write credits
+Wotton Aiden
+Pandya Dev
+
 ## License
 MIT
