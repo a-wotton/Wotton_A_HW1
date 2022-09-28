@@ -1,9 +1,8 @@
 # Wotton_A_HW1
 
+
 ## Aiden: 
 I am Aiden Wotton, I was born in Toronto, Ontario, on July 11, 2004. In the future, I want to work full time in the interactive media field. My favourite Hobby is playing video games.
-
-
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
@@ -12,7 +11,9 @@ I am Aiden Wotton, I was born in Toronto, Ontario, on July 11, 2004. In the futu
 5. Submit a pull request :D
 
 ## Credits
-TODO: Write credits
+Wotton Aiden
+Pandya Dev
+
 
 ## License
 MIT
