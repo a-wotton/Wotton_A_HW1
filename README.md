@@ -1,5 +1,6 @@
 # Wotton_A_HW1
 
+
 TODO: Write a project description
 ## Installation
 TODO: Describe the installation process
@@ -12,6 +13,8 @@ TODO: Write usage instructions
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 ## Credits
-TODO: Write credits
+Wotton Aiden
+Pandya Dev
+
 ## License
 MIT
