@@ -2,6 +2,9 @@
 
 !["fanshawe"](images/image.jpg)
 
+# Team
+
+!["Team Photo"](images/teamphoto.jpg)
 
 ## Dev:
 My name is dev pandya. I am from india , Things I like to do in
