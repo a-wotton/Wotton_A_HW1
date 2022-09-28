@@ -1,6 +1,9 @@
 # Wotton_A_HW1
 
-TODO: Write a project description
+## Dev:
+ I am from india, I like creating anime artworks with the use of photoshop . I like to watch visual infused content like marvel movies 
+as well as some crystal clear cinematography like the batman .
+
 ## Installation
 TODO: Describe the installation process
 ## Usage
