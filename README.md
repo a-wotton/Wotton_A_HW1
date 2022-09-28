@@ -1,8 +1,9 @@
 # Wotton_A_HW1
 
 ## Dev:
- I am from india, I like creating anime artworks with the use of photoshop . I like to watch visual infused content like marvel movies 
-as well as some crystal clear cinematography like the batman .
+My name is dev pandya. I am from india , Things I like to do in
+my free time are reading books,watching anime,making artworks with 
+the help of photoshop.
 
 ## Installation
 TODO: Describe the installation process
